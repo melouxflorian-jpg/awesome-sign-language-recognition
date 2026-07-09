@@ -44,6 +44,7 @@ An Interdisciplinary Perspective](https://arxiv.org/abs/1908.08597)
 - [BSL-1K](https://www.robots.ox.ac.uk/~vgg/research/bsl1k/) [[paper]](https://arxiv.org/abs/2007.12131)
 - [How2Sign](https://how2sign.github.io/) [[paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Duarte_How2Sign_A_Large-Scale_Multimodal_Dataset_for_Continuous_American_Sign_Language_CVPR_2021_paper.html)   
 - [CSL-Daily](http://home.ustc.edu.cn/~zhouh156/dataset/csl-daily/) [[paper]](https://arxiv.org/abs/2105.12397)
+- [EPEE](https://huggingface.co/datasets/CLERC-DATA/epee) [[project]](https://clerc.io/data)
 
 | Dataset  | Sign Language | Classes | Signers | Videos | Type | Modalities | Year | Avail. * |
 | ------------- | :-----------: | -: | -: | -: | :-: | :-: | :-: | :-: | 
